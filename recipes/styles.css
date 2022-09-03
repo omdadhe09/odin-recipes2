@@ -1,0 +1,29 @@
+h1{
+    color: darkorange;
+    background-color: blueviolet;
+}
+h2{
+    color:black;
+    background-color: darkmagenta;
+     font-weight: 100%;
+}
+li[class]{
+    color: darkorange;
+    font-weight: bold;  
+}
+p{
+    color: darkorange;
+    font-weight: bold;
+}
+h3{
+    color: black;
+    background-color: darkmagenta;
+}
+li{
+    color:darkorange;
+    font-weight: bold;
+}
+a{
+    color: darkorange;
+    background-color: black;
+}

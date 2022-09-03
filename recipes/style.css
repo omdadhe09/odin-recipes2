@@ -1,0 +1,24 @@
+h1{
+    color: darkorange;
+    background-color: darkorchid;
+}
+p{
+    color: darkorange;
+    font-weight: bold;
+}
+h2{
+    color: black;
+    background-color: darkmagenta;
+}
+li{
+    color: darkorange;
+    font-weight: bold;
+}
+h3{
+    color: black;
+    background-color: darkmagenta;
+}
+a{
+    color: darkorange;
+    background-color: black;
+}
